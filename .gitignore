@@ -1,0 +1,15 @@
+node_modules
+package-lock.json
+.env
+
+api-geteway/node_modules
+api-geteway/package-lock.json
+api-geteway/.env
+
+orders/node_modules
+orders/package-lock.json
+orders/.env
+
+users/node_modules
+users/package-lock.json
+users/.env

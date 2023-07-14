@@ -1,0 +1,9 @@
+{
+    "register": ["mobile", "password"],
+    "login": ["mobile", "password"],
+    "verifyOTP": ["mobile", "otp"],
+    "verifyAccount": ["mobile", "otp"],
+    "sendOTP": ["mobile"],
+    "changePassword": ["mobile","password","confirmPassword"],
+    "basicDetails":["id","mobile"]
+}
